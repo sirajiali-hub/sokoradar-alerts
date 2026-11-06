@@ -1,0 +1,98 @@
+admin2,market,crop,pricetype,month,lead,episode,source
+Baringo,Marigat (Baringo),Beans,Retail,2019-07,0,Other years,backtest
+Baringo,Marigat (Baringo),Beans,Retail,2020-06,1,Other years,backtest
+Garissa,Garissa,Maize,Retail,2018-04,2,Other years,backtest
+Garissa,Garissa,Maize,Retail,2019-07,2,Other years,backtest
+Kilifi,Kilifi,Beans,Retail,2019-07,0,Other years,backtest
+Kisumu,Kibuye (Kisumu),Potatoes,Wholesale,2026-03,2,Other years,test
+Kisumu,Kibuye (Kisumu),Potatoes,Wholesale,2026-08,1,Other years,test
+Kisumu,Kisumu,Beans,Wholesale,2011-05,2,2011 drought,replay 2011
+Kisumu,Kisumu,Beans,Wholesale,2017-04,3,2017 drought,backtest
+Kisumu,Kisumu,Beans,Wholesale,2019-07,2,Other years,backtest
+Kisumu,Kisumu,Maize,Wholesale,2011-05,1,2011 drought,replay 2011
+Kisumu,Kisumu,Maize,Wholesale,2017-03,1,2017 drought,backtest
+Kisumu,Kisumu,Potatoes,Wholesale,2015-09,1,Other years,backtest
+Kisumu,Kisumu,Potatoes,Wholesale,2016-05,3,Other years,backtest
+Kisumu,Kisumu,Sorghum,Wholesale,2011-04,1,2011 drought,replay 2011
+Kisumu,Kisumu,Sorghum,Wholesale,2017-03,2,2017 drought,backtest
+Kitui,Kitui,Beans,Retail,2011-04,3,2011 drought,replay 2011
+Kitui,Kitui,Beans,Retail,2011-12,0,2011 drought,replay 2011
+Kitui,Kitui,Maize,Retail,2011-05,1,2011 drought,replay 2011
+Kitui,Kitui,Maize,Retail,2017-02,0,2017 drought,backtest
+Kitui,Kitui,Potatoes,Wholesale,2011-03,3,2011 drought,replay 2011
+Kitui,Kitui,Potatoes,Wholesale,2016-01,0,Other years,backtest
+Kitui,Kitui,Potatoes,Wholesale,2016-12,2,2017 drought,backtest
+Kitui,Kitui,Potatoes,Wholesale,2018-02,3,Other years,backtest
+Kitui,Kitui,Potatoes,Wholesale,2019-05,1,Other years,backtest
+Kitui,Kitui,Potatoes,Wholesale,2019-11,0,Other years,backtest
+Kitui,Kitui,Sorghum,Wholesale,2011-09,3,2011 drought,replay 2011
+Kitui,Kitui,Sorghum,Wholesale,2017-03,2,2017 drought,backtest
+Kitui,Kitui,Sorghum,Wholesale,2018-02,3,Other years,backtest
+Mandera,Mandera,Maize,Retail,2010-09,0,Other years,replay 2011
+Marsabit,Marsabit,Maize,Retail,2011-07,3,2011 drought,replay 2011
+Marsabit,Marsabit,Maize,Retail,2024-09,0,Other years,
+Mombasa,Mombasa,Beans,Wholesale,2011-04,1,2011 drought,replay 2011
+Mombasa,Mombasa,Beans,Wholesale,2014-01,2,Other years,backtest
+Mombasa,Mombasa,Beans,Wholesale,2015-05,2,Other years,backtest
+Mombasa,Mombasa,Beans,Wholesale,2016-12,3,2017 drought,backtest
+Mombasa,Mombasa,Beans,Wholesale,2019-08,3,Other years,
+Mombasa,Mombasa,Beans,Wholesale,2020-01,3,Other years,backtest
+Mombasa,Mombasa,Maize,Wholesale,2011-04,0,2011 drought,replay 2011
+Mombasa,Mombasa,Maize,Wholesale,2017-03,1,2017 drought,backtest
+Nairobi,Nairobi,Beans,Wholesale,2011-04,3,2011 drought,replay 2011
+Nairobi,Nairobi,Beans,Wholesale,2015-05,3,Other years,backtest
+Nairobi,Nairobi,Beans,Wholesale,2017-06,3,2017 drought,backtest
+Nairobi,Nairobi,Beans,Wholesale,2019-08,3,Other years,backtest
+Nairobi,Nairobi,Maize,Wholesale,2011-05,0,2011 drought,replay 2011
+Nairobi,Nairobi,Maize,Wholesale,2017-02,0,2017 drought,backtest
+Nairobi,Nairobi,Potatoes,Wholesale,2011-03,2,2011 drought,replay 2011
+Nairobi,Nairobi,Potatoes,Wholesale,2012-03,3,Other years,
+Nairobi,Nairobi,Potatoes,Wholesale,2015-09,0,Other years,backtest
+Nairobi,Nairobi,Potatoes,Wholesale,2016-05,3,Other years,backtest
+Nairobi,Nairobi,Potatoes,Wholesale,2018-08,2,Other years,backtest
+Nairobi,Nairobi,Potatoes,Wholesale,2019-05,1,Other years,backtest
+Nairobi,Nairobi,Sorghum,Wholesale,2011-07,2,2011 drought,replay 2011
+Nairobi,Nairobi,Sorghum,Wholesale,2017-04,1,2017 drought,backtest
+Nairobi,Nairobi,Sorghum,Wholesale,2019-07,2,Other years,backtest
+Nakuru,Nakuru,Beans,Wholesale,2017-04,2,2017 drought,backtest
+Nakuru,Nakuru,Beans,Wholesale,2018-03,2,Other years,backtest
+Nakuru,Nakuru,Beans,Wholesale,2019-06,2,Other years,backtest
+Nakuru,Nakuru,Beans,Wholesale,2020-02,0,Other years,backtest
+Nakuru,Nakuru,Maize,Wholesale,2011-04,2,2011 drought,replay 2011
+Nakuru,Nakuru,Maize,Wholesale,2017-02,1,2017 drought,backtest
+Nakuru,Nakuru,Maize,Wholesale,2019-08,3,Other years,backtest
+Nakuru,Nakuru,Potatoes,Wholesale,2018-08,1,Other years,backtest
+Nakuru,Nakuru,Potatoes,Wholesale,2019-05,3,Other years,backtest
+Nakuru,Nakuru,Sorghum,Wholesale,2019-05,3,Other years,backtest
+Turkana,Kakuma 2,Maize,Retail,2025-07,0,Other years,test
+Turkana,Kakuma 3,Potatoes,Retail,2026-08,1,Other years,test
+Turkana,Kakuma 4,Maize,Retail,2025-09,1,Other years,test
+Turkana,Kakuma 4,Potatoes,Retail,2026-08,1,Other years,test
+Turkana,Lodwar (Turkana),Maize,Retail,2011-06,2,2011 drought,replay 2011
+Turkana,Lodwar (Turkana),Maize,Retail,2017-06,3,2017 drought,backtest
+Turkana,Mogadishu (Kakuma),Potatoes,Retail,2026-08,1,Other years,test
+Uasin Gishu,Eldoret town (Uasin Gishu),Beans,Wholesale,2011-04,2,2011 drought,replay 2011
+Uasin Gishu,Eldoret town (Uasin Gishu),Beans,Wholesale,2017-07,3,2017 drought,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Beans,Wholesale,2020-02,0,Other years,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Beans,Wholesale,2021-02,0,Other years,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Beans,Wholesale,2022-05,0,2022 drought,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Beans,Wholesale,2025-06,1,Other years,test
+Uasin Gishu,Eldoret town (Uasin Gishu),Maize,Wholesale,2011-05,2,2011 drought,replay 2011
+Uasin Gishu,Eldoret town (Uasin Gishu),Maize,Wholesale,2017-04,2,2017 drought,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Maize,Wholesale,2022-05,3,2022 drought,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2011-03,2,2011 drought,replay 2011
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2013-12,3,Other years,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2016-01,3,Other years,
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2017-03,3,2017 drought,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2018-08,0,Other years,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2019-04,1,Other years,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2021-12,0,2022 drought,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2022-10,1,2022 drought,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2023-03,2,Other years,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2023-09,3,Other years,
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2024-03,1,Other years,
+Uasin Gishu,Eldoret town (Uasin Gishu),Potatoes,Wholesale,2024-07,2,Other years,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Sorghum,Wholesale,2010-09,0,Other years,replay 2011
+Uasin Gishu,Eldoret town (Uasin Gishu),Sorghum,Wholesale,2011-06,3,2011 drought,replay 2011
+Uasin Gishu,Eldoret town (Uasin Gishu),Sorghum,Wholesale,2013-10,0,Other years,backtest
+Uasin Gishu,Eldoret town (Uasin Gishu),Sorghum,Wholesale,2015-02,0,Other years,backtest

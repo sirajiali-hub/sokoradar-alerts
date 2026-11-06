@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#ef6c00"
+base = "light"
+
+[client]
+showErrorDetails = "none"   # users never see a stack trace
